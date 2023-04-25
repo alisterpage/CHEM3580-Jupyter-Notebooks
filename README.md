@@ -1,8 +1,8 @@
 # CHEM3580 Jupyter Notebooks
 
-A collection of exercises and comp Chem labs for CHEM3580 at the University of Newcastle
+A collection of Jupyter Notebooks for CHEM3580 at the University of Newcastle
 
-## Lectorial Python Notebooks
+## Lectorial Notebooks
 * **h2_frequencies** - Lecture 1. How good is a harmonic bond stretching potential?
 * **harmonic_vs_morse** - Lecture 1. Are there better options to harmonic bond stretching potentials?
 * **twisting_carbenes** - Lecture 1. Generate your own bond angle potential!
