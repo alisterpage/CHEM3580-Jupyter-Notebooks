@@ -18,4 +18,4 @@ A collection of Jupyter Notebooks for CHEM3580 at the University of Newcastle
 
 * **Workshop 1** - Introduction to running MD simulations in Python & Jupyter Notebooks. Proteins in water. Comparison of MD water models.
 * **Workshop 2** - Simulating Electrolytes and Specific Ion Effects in Water. 
-* **Workshop 3** - SDS Micelles - Water vs Oil.
+* **Workshop 3** - Hydrogen Bonding in Deep Eutectic Solvents
