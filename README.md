@@ -12,6 +12,7 @@ A collection of Jupyter Notebooks for CHEM3580 at the University of Newcastle
 
 ## Homework Notebooks
 
+* **Homework 1** - Looking 'under the hood' of an MD force field
 * **Homework 3** - Predicting Water Heat Capacity using MD
 
 ## Workshop Notebooks
