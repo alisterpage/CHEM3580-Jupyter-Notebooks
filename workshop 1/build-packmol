@@ -1,8 +1,9 @@
 #!/bin/bash
 
-sudo apt-get -y install gfortran
-wget https://github.com/m3g/packmol/archive/refs/tags/v20.14.2.tar.gz
-tar -zxf v20.14.2.tar.gz
-cd packmol-20.14.2 ; ./configure ; make ; mv packmol ~/packmol
+#sudo apt-get -y install gfortran
+#wget https://github.com/m3g/packmol/archive/refs/tags/v20.14.2.tar.gz
+#tar -zxf v20.14.2.tar.gz
+#cd packmol-20.14.2 ; ./configure ; make ; mv packmol ~/packmol
+conda install -y packmol
 exit 0
 
