@@ -12,6 +12,7 @@ workshop 2/packmol.in
 workshop 3/.ipynb_checkpoints
 workshop 3/packmol.in
 Untitled.ipynb
+<<<<<<< Updated upstream
 workshop 3/chcl_urea.pdb
 workshop 3/chcl_urea.dcd
 workshop 3/chcl_urea.csv
@@ -20,3 +21,6 @@ workshop 3/packmol.out
 
 #old stuff 
 lectorials/twisting_carbenes.ipynb
+=======
+.DS_Store
+>>>>>>> Stashed changes
