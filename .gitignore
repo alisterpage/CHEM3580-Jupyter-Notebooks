@@ -18,5 +18,8 @@ workshop 3/chcl_urea.csv
 workshop 3/packmol.out
 .DS_Store
 
+workshop sds/.DS_Store
+workshop sds/.ipynb_checkpoints
+
 #old stuff 
 lectorials/twisting_carbenes.ipynb
