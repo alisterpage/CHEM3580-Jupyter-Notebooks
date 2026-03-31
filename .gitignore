@@ -8,15 +8,17 @@ workshop 1/output.pdb
 
 workshop 2/.ipynb_checkpoints
 workshop 2/packmol.in
-
-workshop 3/.ipynb_checkpoints
-workshop 3/packmol.in
 Untitled.ipynb
-workshop 3/chcl_urea.pdb
-workshop 3/chcl_urea.dcd
-workshop 3/chcl_urea.csv
-workshop 3/packmol.out
+workshop 2/chcl_urea.pdb
+workshop 2/chcl_urea.dcd
+workshop 2/chcl_urea.csv
+workshop 2/packmol.out
 .DS_Store
+
+workshop sds/.DS_Store
+workshop sds/.ipynb_checkpoints
+workshop sds/chem3580_SDS_workshop_colab.ipynb
+workshop sds/*.pdb
 
 #old stuff 
 lectorials/twisting_carbenes.ipynb
