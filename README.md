@@ -10,7 +10,7 @@ A collection of Jupyter Notebooks for CHEM3580 at the University of Newcastle
 * **H2_phasespace** - Lecture 2. What is phase space, and why is it important for molecular dynamics?
 * **NPT_water_convergence** - Lecture 2. What are the relationships between energy, velocity, temperature and pressure in an NPT ensemble? And how do we control them?
 * **water_RDF** - Lecture 2. How do we use MD ensembles to predict structure in condensed phases? 
-* **water_RDF** - Lecture 2. How do we use MD ensembles to predict dynamics in condensed phases? 
+* **water_MSD** - Lecture 2. How do we use MD ensembles to predict dynamics in condensed phases? 
 
 ## Homework Notebooks
 
