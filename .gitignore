@@ -20,6 +20,8 @@ workshop 3/packmol.out
 
 workshop sds/.DS_Store
 workshop sds/.ipynb_checkpoints
+workshop sds/chem3580_SDS_workshop_colab.ipynb
+workshop sds/*.pdb
 
 #old stuff 
 lectorials/twisting_carbenes.ipynb
