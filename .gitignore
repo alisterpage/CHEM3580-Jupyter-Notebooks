@@ -22,3 +22,8 @@ workshop sds/*.pdb
 
 #old stuff 
 lectorials/twisting_carbenes.ipynb
+workshop 3/system.pdb
+.gitignore
+workshop 3/sds.dcd
+workshop 3/sds_data.csv
+.DS_Store
